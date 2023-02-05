@@ -1,0 +1,15 @@
+{
+  "name": "MetallicAlloys",
+  "inputs": {
+    "Population": 1,
+    "Water": 3,
+    "MetallicElements": 2,
+    "PotentialEnergyUsable": 3
+  },
+  "outputs": {
+    "Population": 1,
+    "MetallicAlloys": 1,
+    "MetallicAlloysWaste": 1,
+    "Water": 2
+  }
+}
