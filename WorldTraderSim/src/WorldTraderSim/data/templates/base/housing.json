@@ -1,0 +1,17 @@
+{
+  "name": "Housing",
+  "inputs": {
+    "AvailableLand": 1,
+    "Population": 5,
+    "Timber": 5,
+    "MetallicElements": 1,
+    "MetallicAlloys": 3,
+    "PotentialEnergyUsable": 5
+  },
+  "outputs": {
+    "Population": 5,
+    "Water": 4,
+    "Housing": 1,
+    "HousingWaste": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Electronics",
+  "inputs": {
+    "Population": 1,
+    "MetallicElements": 3,
+    "MetallicAlloys": 2
+  },
+  "outputs": {
+    "Population": 1,
+    "Electronics": 2,
+    "ElectronicsWaste": 1
+  }
+}

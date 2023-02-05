@@ -1,15 +1,60 @@
+# Standard Libraries
 import argparse
 import logging
 import os
 
+# Local Modules
+from Parsers import StateParser, TransformTemplateParser
+
+
 CWD_PATH = os.path.abspath(os.getcwd())
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(SCRIPT_PATH, "data")
+STATES_PATH = os.path.join(DATA_PATH, "states")
+TEMPLATE_EXTENSION=".tmpl"
+TRANSFORM_TEMPLATES_PATH = os.path.join(DATA_PATH, "templates/base")
+
+
+def load_states(resources_file, initial_state_file):
+    resources_path = os.path.join(STATES_PATH, resources_file)
+    initial_state_path = os.path.join(STATES_PATH, initial_state_file)
+    resources = StateParser.read_csv(resources_path)
+    initial_state = StateParser.read_csv(initial_state_path)
+    
+    logging.debug(resources)
+    logging.debug(initial_state)
+
+    resource_names = [resource["Resource"] for resource in resources]
+    logging.debug(resource_names)
+
+    if not StateParser.validate_resources(resource_names):
+      raise Exception("Resources list is missing required resources")
+
+    if not StateParser.validate_initial_state(initial_state):
+      raise Exception("Initial state is invalid")
+
+    return  [initial_state, resources]
+
+
+def load_transform_templates():
+  for file_path in os.listdir(TRANSFORM_TEMPLATES_PATH):
+    if file_path.endswith(TEMPLATE_EXTENSION):
+      template_path = os.path.join(TRANSFORM_TEMPLATES_PATH,file_path)
+      transform_template = TransformTemplateParser.parse(template_path)
+      logging.debug(transform_template)
+
 
 def country_scheduler(country_name, resources_file,
                       initial_state_file, output_file,
                       num_schedules, depth_bound,
                       frontier_size):
-    pass
+  logging.info("Loading initial state...")
+  initial_state, resources = load_states(resources_file, initial_state_file)
+  logging.info("Initial state loaded")
+
+  logging.info("Loading transform templates...")
+  transform_templates = load_transform_templates()
+  logging.info("Transform templates loaded")
 
 
 def parseCmdLineArgs ():
@@ -32,17 +77,24 @@ def parseCmdLineArgs ():
   parser.add_argument ("--config", default="config.ini", help="configuration file (default: config.ini)")
 
   # Logging level
-  parser.add_argument ("-l", "--logging-level", type=int, default=logging.DEBUG, choices=[logging.DEBUG,logging.INFO,logging.WARNING,logging.ERROR,logging.CRITICAL], help="logging level, choices 10,20,30,40,50: default 10=logging.DEBUG")
+  parser.add_argument ("-l", "--logging-level", type=int, default=logging.INFO, choices=[logging.DEBUG,logging.INFO,logging.WARNING,logging.ERROR,logging.CRITICAL], help="logging level, choices 10,20,30,40,50: default 10=logging.DEBUG")
   
   return parser.parse_args()
 
 
 def main(): 
-    logging.info(CWD_PATH)
-    logging.info(SCRIPT_PATH)
-    args = parseCmdLineArgs ()
-    print(args)
-    
+  logging.info("Starting WorldTraderSim")
+  args = parseCmdLineArgs ()
+  logging.getLogger().setLevel(args.logging_level)
+
+  country_scheduler(args.country_name, args.resources_file, args.initial_state_file,
+                    args.output_file, args.num_schedules,
+                    args.depth_bound, args.frontier_size)
+
 
 if __name__ == "__main__":
-    main()
+    # set underlying default logging capabilities
+  logging.basicConfig (level=logging.DEBUG,
+                       format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+
+  main()
