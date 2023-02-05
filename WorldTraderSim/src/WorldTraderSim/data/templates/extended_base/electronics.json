@@ -9,8 +9,8 @@
   },
   "outputs": {
     "Population": 1,
+    "Water": 2,
     "Electronics": 2,
-    "ElectronicsWaste": 1,
-    "Water": 2
+    "ElectronicsWaste": 1
   }
 }

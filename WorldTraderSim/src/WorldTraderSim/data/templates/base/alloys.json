@@ -1,0 +1,12 @@
+{
+  "name": "MetallicAlloys",
+  "inputs": {
+    "Population": 1,
+    "MetallicElements": 2
+  },
+  "outputs": {
+    "Population": 1,
+    "MetallicAlloys": 1,
+    "MetallicAlloysWaste": 1
+  }
+}
