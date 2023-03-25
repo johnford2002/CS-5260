@@ -9,17 +9,6 @@ import Constants
 from DataTypes import ResourceQuantity
 from DataTypes import TransformTemplate
 
-@dataclass
-class ResourceQuantity:
-  name: str = field()
-  quantity: int = field()
-
-@dataclass
-class TransformTemplate:
-  name: str = field(default="")
-  inputs: List[ResourceQuantity] = field(default_factory=list)
-  outputs: List[ResourceQuantity] = field(default_factory=list)
-
 def read_file(file_path: str) -> List[dict]:
   file_contents = None
   with open(file_path, mode='r') as file:
@@ -79,7 +68,7 @@ def build_transform_template(template_path: str, template: str) -> TransformTemp
 
   return transform
 
-def parse(template_path: str) -> dict:
+def parse(template_path: str) -> TransformTemplate:
   template = read_file(template_path)
   validate(template)
   transform_template = build_transform_template(template_path, template)
