@@ -17,8 +17,25 @@ DATA_PATH = os.path.join(SCRIPT_PATH, "data")
 
 
 def graph_schedule(args):
+  sns.set(font_scale=1.25)
+  a4_dims = (11.7, 8.27)
+  fig, ax = plt.subplots(figsize=a4_dims)
+
+  ax.grid(False)
+  ax.text(x=0.5, y=1.06, s='Expected Utility vs State Quality', fontsize=20, weight='bold', ha='center', va='bottom', transform=ax.transAxes)
+
   df = pd.read_csv(os.path.join(args.schedules_dir, "best_solution.csv"))
-  sns.lineplot(x="step", y="expected_utility", data=df)
+  
+  sns.lineplot(x="step", y="expected_utility", data=df, color="b", ax=ax, label="Expected Utility")
+  ax.set_xlabel("Depth")
+  ax.set_ylabel("Expected Utility")
+
+  ax2 = plt.twinx()
+  ax2.grid(False)
+  sns.lineplot(x="step", y="state_quality", data=df, color="g", ax=ax2, label="State Quality")
+  ax2.set_ylabel("State Quality")
+  ax2.legend(loc="upper right")
+  
   plt.savefig(os.path.join(args.schedules_dir, "best_solution.png"))
 
 

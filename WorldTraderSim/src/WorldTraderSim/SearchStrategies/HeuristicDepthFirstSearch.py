@@ -33,8 +33,8 @@ class HeuristicDepthFirstSearch(SearchStrategy):
             for child in self._expand(actions, heuristic, node):
                if child.state_hash() not in reached:
                   reached.append(child.state_hash())
-                  # if len(frontier) < self.MAX_FRONTIER_SIZE:
-                  frontier.append(child)
+                  if len(frontier) < self.MAX_FRONTIER_SIZE:
+                     frontier.append(child)
                else:
                   logging.debug("CHILD DETECTED AS REACHED")
             
@@ -42,7 +42,7 @@ class HeuristicDepthFirstSearch(SearchStrategy):
             if new_frontier_length > max_frontier_length:
                max_frontier_length = new_frontier_length
          else:
-            logging.info(f"Max Frontier Length {max_frontier_length}")
+            logging.info(f"Max Frontier Length = {max_frontier_length}")
             return Solution(node, visited)
       logging.info(f"Max Frontier Length {max_frontier_length}")
       return Solution(node, visited)
@@ -55,13 +55,13 @@ class HeuristicDepthFirstSearch(SearchStrategy):
          visited.append(node.STATE)
          if node.depth() < self.DEPTH_BOUND:
             for child in self._expand(actions, heuristic, node):
-               # if len(frontier) < self.MAX_FRONTIER_SIZE:
-               frontier.append(child)
+               if len(frontier) < self.MAX_FRONTIER_SIZE:
+                  frontier.append(child)
          else:
             return Solution(node, visited)
       return Solution(node, visited)
 
    def search(self, country_states: Dict[str, Country], actions: List[Action], heuristic: Heuristic) -> Solution:
-      logging.info(f"Searching with frontier size {self.MAX_FRONTIER_SIZE}")
+      logging.info(f"Max Frontier Size = {self.MAX_FRONTIER_SIZE}")
       search_function = self.search_without_reached if self.TREE_BASED_SEARCH else self.search_with_reached
       return search_function(country_states, actions, heuristic)

@@ -63,7 +63,7 @@ class Schedule:
         solutions_count += 1
     
   @staticmethod
-  def write_csv(solution: Solution, expected_utility_fn: Callable[[Country, Schedule], float], self_country: Country, output_file_name: str, output_dir: Union[str, PathLike, None] = None):
+  def write_csv(solution: Solution, state_quality_fn: Callable[[Country], float], expected_utility_fn: Callable[[Country, Schedule], float], self_country: Country, output_file_name: str, output_dir: Union[str, PathLike, None] = None):
     if not output_dir:
       module_path = path.dirname(path.abspath(__file__))
       output_dir =  path.join(module_path, "../data/schedules/")
@@ -71,15 +71,17 @@ class Schedule:
     solution_path = []
     for index, node in enumerate(solution.PATH):
       if node.PARENT_ACTION:
+        state_quality = state_quality_fn(node.STATE[self_country.name])
         eu = expected_utility_fn(self_country, Schedule(node))
         solution_path.append({
           "action_type": node.PARENT_ACTION.ACTION_TYPE,
           "step": index+1,
-          "expected_utility": eu
+          "expected_utility": eu,
+          "state_quality": state_quality,
         })
 
     with open(path.join(output_dir, output_file_name), 'w', newline='') as file:
-      csv_file = csv.DictWriter(file, fieldnames=["action_type", "step", "expected_utility"])
+      csv_file = csv.DictWriter(file, fieldnames=["action_type", "step", "expected_utility", "state_quality"])
 
       csv_file.writeheader()
       csv_file.writerows(solution_path)

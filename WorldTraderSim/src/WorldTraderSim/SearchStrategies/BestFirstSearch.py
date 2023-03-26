@@ -8,9 +8,9 @@ from typing import Dict, List, Union
 from DataTypes import Action, Country, Heuristic, Node, PriorityQueue, Solution
 from .SearchStrategy import SearchStrategy
 
-class GreedyBestFirstSearch(SearchStrategy):
+class BestFirstSearch(SearchStrategy):
    def _expand(self, actions: List[Action], heuristic: Heuristic, node: Node) -> List[Node]:
-      nodes = PriorityQueue(lambda node: heuristic.apply(node), True)
+      nodes = PriorityQueue(lambda node: heuristic.apply(node), False)
       for action in actions:
          next_state = action.apply(node.STATE)
          if next_state is not None:

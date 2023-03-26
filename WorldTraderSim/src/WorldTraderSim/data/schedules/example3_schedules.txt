@@ -1,0 +1,301 @@
+[
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.1524200553357776
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.08089874174280556
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.05571880084992942
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.2962739343992288
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.6885881262677283
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2670249692915014
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.0228915912417174
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9042077594297027
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.8555648640218934
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 4.851766997927397
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 5.896027640646082
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 7.002379114972818
+  (TRANSFER Brick self ((Timber 1))) EU: 1.615083250760546
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 1.3186443439546385
+  (TRANSFER Brick self ((Timber 1))) EU: 1.1325566193745842
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 0.7899139949649046
+  (TRANSFER Brick self ((Timber 1))) EU: 0.5920720509190558
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 0.3169312822447408
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.32426215281307397
+  (TRANSFER self Brick ((MetallicAlloys 1))) EU: 6.642015941130918
+  (TRANSFER Brick self ((Timber 1))) EU: 6.509566317983173
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 5.636097540520392
+  (TRANSFER Brick self ((Timber 1))) EU: 5.0710352484311505
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 3.7504988028066153
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 4.222494901760374
+  (TRANSFER self Brick ((MetallicAlloys 1))) EU: 11.89397254129464
+  (TRANSFER Brick self ((Timber 4))) EU: 13.050356501345972
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 13.421083382313922
+  (TRANSFER self Brick ((Timber 1))) EU: 14.214487744305327
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 14.463754158946172
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 16.378892167521258
+  (TRANSFER self Brick ((Timber 2))) EU: 17.395298056836644
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 17.882195413871322
+  (TRANSFER self Brick ((Timber 1))) EU: 18.684032867588595
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 19.00964676875954
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 21.220966289325304
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 22.749818900898216
+  (TRANSFER Brick self ((Timber 1))) EU: 22.802306061543852
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 20.907436145420622
+  (TRANSFER Brick self ((Timber 1))) EU: 18.892908155841557
+  (TRANSFER self Brick ((Electronics 1))) EU: 16.253981379942417
+  (TRANSFER self Brick ((MetallicAlloysWaste 3))) EU: 26.41626632779894
+  (TRANSFER self Brick ((Timber 1))) EU: 27.351415051533245
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 27.552740200844184
+  (TRANSFER self Brick ((Timber 1))) EU: 28.75939233432717
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 28.455641843112282
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 28.039944671543992
+  (TRANSFER Brick self ((Timber 5))) EU: 30.94188275189254
+  (TRANSFER Brick self ((Timber 1))) EU: 31.421599947475737
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 29.895849289973704
+  (TRANSFER self Brick ((Timber 2))) EU: 33.05654618836897
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 32.27152138659385
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 35.266013506400995
+  (TRANSFER self Brick ((Timber 2))) EU: 37.67470861632646
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 37.554501483379866
+  (TRANSFER self Brick ((Timber 1))) EU: 39.15880907846847
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 38.00586043176128
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 41.26648698135153
+  (TRANSFER self Brick ((Timber 1))) EU: 43.8132135987459
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 45.99053777165824
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 43.23821139699136
+  (TRANSFER Brick self ((MetallicElements 4))) EU: 47.755762248959705
+  (TRANSFER Brick self ((Timber 1))) EU: 47.19434833362124
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 49.66282574527748
+  (TRANSFER Brick self ((Timber 1))) EU: 50.13029934371966
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 47.029460434785086
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 51.90276294333374
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 55.78303665831137
+  (TRANSFER Brick self ((Timber 1))) EU: 56.95336535606602
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 57.00075215495367
+  (TRANSFER Brick self ((Timber 2))) EU: 58.698081839912774
+  (TRANSFER self Pandora ((Timber 5))) EU: 53.69924981376247
+  (TRANSFER Brick self ((Timber 1))) EU: 53.858512407984456
+  (TRANSFER self Pandora ((Timber 1))) EU: 54.427549005386425
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 55.49247916763829
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 56.750085674012126
+  (TRANSFER Brick self ((Timber 1))) EU: 57.881525899378246
+  (TRANSFER self Pandora ((Timber 1))) EU: 58.775246780807315
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 58.84401973300542
+  (TRANSFER Brick self ((Timber 1))) EU: 58.9027421887766
+  (TRANSFER self Pandora ((Timber 1))) EU: 60.72291696080363
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 62.149107439376756
+  (TRANSFER Brick self ((Timber 1))) EU: 63.24095488982468
+  (TRANSFER self Pandora ((Timber 1))) EU: 63.55870016026766
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 64.83718574730901
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 64.78623829765971
+  (TRANSFER Brick self ((Timber 2))) EU: 66.52470938060723
+  (TRANSFER self Pandora ((Timber 1))) EU: 67.32196260202379
+  (TRANSFER self Brick ((Timber 1))) EU: 67.99413333373829
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 68.14802994832506
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 68.44470888807409
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 73.30214919226498
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 76.30829276527615
+  (TRANSFER Brick self ((Timber 1))) EU: 71.73594305589546
+  (TRANSFER self Pandora ((Timber 1))) EU: 73.64848381119133
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 71.43198934007297
+  (TRANSFER Brick self ((Timber 1))) EU: 56.46793455343869
+  (TRANSFER self Pandora ((Timber 1))) EU: 59.83832329194386
+  (TRANSFER self Brick ((Electronics 1))) EU: 57.390155986198266
+  (TRANSFER self Brick ((MetallicAlloysWaste 3))) EU: 84.39980050174624
+  (TRANSFER Brick self ((Timber 1))) EU: 85.56761381919429
+  (TRANSFER self Pandora ((Timber 1))) EU: 86.26563842473846
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 86.34912339809385
+  (TRANSFER Brick self ((Timber 1))) EU: 84.78643497031622
+  (TRANSFER self Pandora ((Timber 1))) EU: 86.97421456765646
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 83.55712609059243
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 91.15970064216297
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 96.91358748740583
+  (TRANSFER Brick self ((Timber 1))) EU: 97.87993864993157
+  (TRANSFER Pandora self ((Timber 1))) EU: 98.05082927911423
+  (TRANSFER self Brick ((Timber 2))) EU: 97.85585518997891
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 100.38090595372395
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 101.40906859362924
+  (TRANSFER Pandora self ((Timber 1))) EU: 103.14877647406955
+  (TRANSFER self Brick ((Timber 1))) EU: 103.30657240848365
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 104.54883750288643
+  (TRANSFER Pandora self ((Timber 1))) EU: 103.92802360753551
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 106.09349902668586
+  (TRANSFER Pandora self ((Timber 1))) EU: 107.61529480411542
+  (TRANSFER self Brick ((Timber 1))) EU: 108.81747314061887
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 106.69265635661112
+  (TRANSFER self Brick ((Timber 1))) EU: 111.06652707510933
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 110.39494119326517
+  (TRANSFER Pandora self ((Timber 2))) EU: 112.80242868510892
+  (TRANSFER self Brick ((Timber 1))) EU: 113.03226848664758
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 113.80644753229096
+  (TRANSFER self Brick ((Timber 1))) EU: 115.74548666265507
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 115.47630995000844
+  (TRANSFER Pandora self ((Timber 1))) EU: 117.72373373752194
+  (TRANSFER Brick self ((Timber 1))) EU: 118.05550951451353
+  (TRANSFER Pandora self ((Timber 1))) EU: 118.50599388257005
+  (TRANSFER self Brick ((Timber 2))) EU: 118.72583813902652
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 121.28552703153105
+  (TRANSFER self Pandora ((Timber 1))) EU: 122.70303079305788
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 121.04464186054025
+  (TRANSFER Pandora self ((Timber 2))) EU: 124.95113614191403
+  (TRANSFER self Brick ((Timber 1))) EU: 125.17901978988462
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 125.15092059029324
+  (TRANSFER self Brick ((Timber 1))) EU: 127.86778391691558
+  (TRANSFER Pandora self ((Timber 1))) EU: 127.26540775707726
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 128.96256537883878
+  (TRANSFER Pandora self ((Timber 1))) EU: 130.89578539882893
+  (TRANSFER Brick self ((Timber 1))) EU: 130.54896636548372
+  (TRANSFER Pandora self ((Timber 1))) EU: 127.59600548370268
+  (TRANSFER self Brick ((Timber 2))) EU: 128.47833664989057
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 130.9519912373536
+  (TRANSFER self Pandora ((Timber 1))) EU: 135.79861446353053
+  (TRANSFER self Brick ((Timber 1))) EU: 136.32936630756993
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 134.7523004351911
+  (TRANSFER Pandora self ((Timber 2))) EU: 138.12229210147038
+  (TRANSFER Brick self ((Timber 1))) EU: 139.73913286363526
+  (TRANSFER self Pandora ((Timber 3))) EU: 136.19323414787183
+  (TRANSFER Pandora self ((MetallicElements 2))) EU: 140.99391494591768
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 148.81910819866448
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 153.33474160664682
+  (TRANSFER Brick self ((Timber 1))) EU: 146.37032933829923
+  (TRANSFER self Pandora ((Timber 1))) EU: 148.09476465853612
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 146.36625020795714
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 157.7580166105872
+  (TRANSFER Pandora self ((Timber 1))) EU: 158.5424724327137
+  (TRANSFER Brick self ((Timber 1))) EU: 159.43349379945002
+  (TRANSFER self Pandora ((Timber 2))) EU: 158.79190144111172
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 162.30376707361177
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 162.1282209489026
+  (TRANSFER Brick self ((Timber 1))) EU: 164.89747542508593
+  (TRANSFER self Pandora ((Timber 1))) EU: 164.6964656696972
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 164.78058228559925
+  (TRANSFER Brick self ((Timber 1))) EU: 163.95062488219244
+  (TRANSFER self Pandora ((Timber 1))) EU: 167.03032329386534
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 168.74160971680652
+  (TRANSFER Brick self ((Timber 1))) EU: 171.20641107704918
+  (TRANSFER Pandora self ((Timber 1))) EU: 170.65130142876296
+  (TRANSFER Brick self ((Timber 1))) EU: 165.9572577025575
+  (TRANSFER self Pandora ((Timber 2))) EU: 166.72551299323862
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 169.8590304094258
+  (TRANSFER self Brick ((Timber 1))) EU: 176.5614201949031
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 174.4616686990902
+  (TRANSFER Brick self ((Timber 2))) EU: 178.5671624665017
+  (TRANSFER self Pandora ((Timber 1))) EU: 178.80274745403284
+  (TRANSFER self Brick ((Timber 1))) EU: 178.90725068381965
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 176.14946842525111
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 173.66642796299982
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 182.5530791421701
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 175.70367364759932
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 188.75051877467544
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 198.02167763147958
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 203.32524733522567
+  (TRANSFER Brick self ((Timber 1))) EU: 205.70089216072103
+  (TRANSFER self Pandora ((Timber 1))) EU: 211.6797606382413
+  (TRANSFER Brick self ((Timber 1))) EU: 199.40720477686548
+  (TRANSFER self Pandora ((Timber 1))) EU: 198.87570425483304
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 201.25123576153103
+  (TRANSFER self Brick ((Electronics 1))) EU: 159.20306603925292
+  (TRANSFER self Brick ((MetallicAlloysWaste 3))) EU: 212.00225616646523
+  (TRANSFER Brick self ((Timber 2))) EU: 217.88027682225035
+  (TRANSFER self Pandora ((Timber 1))) EU: 219.1510818226024
+  (TRANSFER self Brick ((Timber 1))) EU: 218.06676359686543
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 220.89323972033677
+  (TRANSFER Pandora self ((Timber 1))) EU: 222.2041776929392
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 208.25678409302253
+  (TRANSFER Brick self ((MetallicElements 4))) EU: 224.71304600300115
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 234.89567786984563
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 245.17479526556534
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 251.03506239423137
+  (TRANSFER self Brick ((Timber 1))) EU: 252.12489584639866
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 242.31041217281916
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 240.97374556104296
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 256.02164372506485
+  (TRANSFER Brick self ((Timber 1))) EU: 257.84937488412214
+  (TRANSFER self Pandora ((Timber 1))) EU: 258.6129432352624
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 257.4298119568423
+  (TRANSFER Brick self ((Timber 1))) EU: 261.21061140188664
+  (TRANSFER Pandora self ((Timber 1))) EU: 263.2455003127485
+  (TRANSFER Brick self ((Timber 1))) EU: 262.0853801335863
+  (TRANSFER self Pandora ((Timber 2))) EU: 259.8695931128567
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 265.20714496010623
+  (TRANSFER self Brick ((Timber 1))) EU: 268.727082207858
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 265.35432352245346
+  (TRANSFER Brick self ((Timber 2))) EU: 271.7916417290252
+  (TRANSFER self Pandora ((Timber 1))) EU: 270.7649253751027
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 272.0181033766881
+  (TRANSFER self Pandora ((Timber 1))) EU: 275.05190898760264
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 271.92306362745705
+  (TRANSFER Brick self ((Timber 2))) EU: 277.4832737140651
+  (TRANSFER Pandora self ((Timber 1))) EU: 277.35528407409095
+  (TRANSFER self Brick ((Timber 1))) EU: 277.2907878289398
+  (TRANSFER self Pandora ((Timber 2))) EU: 276.936957936547
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 281.7329611200664
+  (TRANSFER Brick self ((Timber 1))) EU: 284.6098792498083
+  (TRANSFER self Pandora ((Timber 1))) EU: 284.2826237231828
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 281.80842612642596
+  (TRANSFER Brick self ((Timber 1))) EU: 286.00131591284946
+  (TRANSFER Pandora self ((Timber 1))) EU: 289.03627977640656
+  (TRANSFER Brick self ((Timber 1))) EU: 289.6569722144911
+  (TRANSFER self Pandora ((Timber 2))) EU: 286.0773048979774
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 292.184895780844
+  (TRANSFER self Brick ((Timber 1))) EU: 293.9291517931599
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 289.960276708662
+  (TRANSFER Brick self ((Timber 2))) EU: 297.23698846624507
+  (TRANSFER self Pandora ((Timber 1))) EU: 295.64682785536957
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 298.82939950534575
+  (TRANSFER self Pandora ((Timber 1))) EU: 300.19562147245625
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 296.33498994344967
+  (TRANSFER Brick self ((Timber 2))) EU: 303.06282832271035
+  (TRANSFER Pandora self ((Timber 1))) EU: 304.49192601965103
+  (TRANSFER self Brick ((Timber 1))) EU: 303.54991872444515
+  (TRANSFER self Pandora ((Timber 2))) EU: 301.28056810474595
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 307.09753813515334
+  (TRANSFER Brick self ((Timber 1))) EU: 310.7670511724425
+  (TRANSFER self Pandora ((Timber 1))) EU: 309.620015602719
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 307.5971859870545
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 320.0346882934816
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 300.16836464724196
+  (TRANSFER Brick self ((MetallicElements 4))) EU: 322.9321880489502
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 335.5638203783319
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 348.29318148407305
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 361.12010165786927
+  (TRANSFER Brick self ((Timber 1))) EU: 339.0734638343447
+  (TRANSFER self Brick ((Electronics 1))) EU: 288.72128456139797
+  (TRANSFER self Brick ((MetallicAlloysWaste 3))) EU: 358.72536125500284
+  (TRANSFER Brick self ((Timber 2))) EU: 366.9015148906662
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 345.6016633703413
+  (TRANSFER Brick self ((MetallicElements 4))) EU: 370.0293185379153
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 383.23953578526556
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 387.56380977356713
+  (TRANSFER Pandora self ((Timber 1))) EU: 391.86420676994203
+  (TRANSFER Brick self ((Timber 1))) EU: 388.7069962504152
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 374.540828336457
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 394.1243877197287
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 407.77685002115794
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 415.41097188411027
+  (TRANSFER Brick self ((Timber 1))) EU: 419.9368552210089
+  (TRANSFER self Pandora ((Timber 1))) EU: 418.5055380235196
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 418.1894221890578
+  (TRANSFER Brick self ((Timber 1))) EU: 398.10478912931933
+  (TRANSFER self Pandora ((Timber 1))) EU: 403.7529822058771
+  (TRANSFER Brick self ((MetallicAlloysWaste 1))) EU: 406.401059940864
+  (TRANSFER Brick self ((MetallicElements 3))) EU: 426.64262820166965
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 440.77261357244095
+  (TRANSFER Brick self ((Timber 1))) EU: 444.02645037850186
+  (TRANSFER Pandora self ((Timber 1))) EU: 442.10812408685723
+  (TRANSFER self Brick ((Timber 2))) EU: 438.41047306830416
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 445.80958071239803
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 448.3082443292892
+  (TRANSFER Pandora self ((Timber 1))) EU: 453.21827522026933
+  (TRANSFER self Brick ((Timber 1))) EU: 451.48453715618325
+  (TRANSFER Brick self ((MetallicElements 1))) EU: 452.6543397892931
+  (TRANSFER self Pandora ((MetallicElements 1))) EU: 448.459034632397
+  (TRANSFER Pandora self ((Timber 2))) EU: 456.0279369703711
+  (TRANSFER self Brick ((Timber 1))) EU: 460.3272254741446
+  (TRANSFER self Pandora ((Timber 1))) EU: 459.73937964054045
+  (TRANSFER Pandora self ((MetallicElements 1))) EU: 444.77778177411454
+  (TRANSFER self Brick ((MetallicElements 1))) EU: 440.419420427925
+  (TRANSFER Brick self ((Timber 3))) EU: 431.69392944347123
+  (TRANSFER self Pandora ((Timber 3))) EU: 443.99362000269616
+  (TRANSFER self Brick ((MetallicAlloys 1))) EU: 414.31487791225203
+  (TRANSFER self Brick ((HousingWaste 1))) EU: 455.9398394207346
+  (TRANSFER Brick self ((Timber 2))) EU: 465.44007786890865
+  (TRANSFER Pandora self ((Timber 2))) EU: 474.70643390435794
+]
