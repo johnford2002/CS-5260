@@ -1,5 +1,6 @@
 # Standard Libraries
 from __future__ import annotations
+import csv
 from dataclasses import dataclass, field
 from os import path, PathLike
 from typing import Callable, Dict, List, Union
@@ -46,10 +47,6 @@ class Schedule:
       output_dir =  path.join(module_path, "../data/schedules/")
 
     utilities = sorted(list(solutions.keys()), reverse=True)
-    # best_expected_utility = utilities[0]
-    # best_solution = solutions[best_expected_utility]
-
-    # print("Best Utility = {}".format(best_expected_utility)) 
 
     with open(output_dir+output_file_name, "w") as file:
       solutions_count = 0
@@ -64,3 +61,25 @@ class Schedule:
             file.write("  " + node.PARENT_ACTION.to_string(self_country) + " EU: {}\n".format(eu))
         file.write("]")
         solutions_count += 1
+    
+  @staticmethod
+  def write_csv(solution: Solution, expected_utility_fn: Callable[[Country, Schedule], float], self_country: Country, output_file_name: str, output_dir: Union[str, PathLike, None] = None):
+    if not output_dir:
+      module_path = path.dirname(path.abspath(__file__))
+      output_dir =  path.join(module_path, "../data/schedules/")
+
+    solution_path = []
+    for index, node in enumerate(solution.PATH):
+      if node.PARENT_ACTION:
+        eu = expected_utility_fn(self_country, Schedule(node))
+        solution_path.append({
+          "action_type": node.PARENT_ACTION.ACTION_TYPE,
+          "step": index+1,
+          "expected_utility": eu
+        })
+
+    with open(path.join(output_dir, output_file_name), 'w', newline='') as file:
+      csv_file = csv.DictWriter(file, fieldnames=["action_type", "step", "expected_utility"])
+
+      csv_file.writeheader()
+      csv_file.writerows(solution_path)

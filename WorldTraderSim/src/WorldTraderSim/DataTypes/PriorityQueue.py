@@ -29,6 +29,9 @@ class PriorityQueue(object):
 
    def is_empty(self) -> bool:
       return len(self.queue) == 0
+   
+   def length(self) -> int:
+      return len(self.queue)
 
    def pop(self) -> Node:
       return self.queue.pop()[0]

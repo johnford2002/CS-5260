@@ -1,6 +1,7 @@
 # Standard Libraries
 from __future__ import annotations
 from dataclasses import dataclass, field
+import json
 from typing import Dict, List
 
 # Local Modules
@@ -10,6 +11,15 @@ from .ResourceQuantity import ResourceQuantity
 class Country:
   name: str = field()
   resources: Dict[str, ResourceQuantity] = field(default_factory=dict)
+
+  def __iter__(self):
+    yield from {
+      "name": self.name,
+      "resources": json.dumps([dict(resource) for resource in self.resources.values()])
+    }.items()
+
+  def __str__(self) -> str:
+    return json.dumps(dict(self))
 
   @staticmethod
   def from_dict(data: Dict):

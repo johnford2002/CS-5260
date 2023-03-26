@@ -3,7 +3,9 @@
 
 # Standard Libraries
 from __future__ import annotations
-from typing import Dict
+import hashlib
+import json
+from typing import Dict, Any
 from uuid import UUID, uuid4
 
 # Local Modules
@@ -27,10 +29,17 @@ class Node(object):
       self.PATH_COST = path_cost
 
    def __eq__(self, other: Node) -> bool:
-      return self.ID == other.ID
+      return self.state_hash() == other.state_hash()
 
-   def __hash__(self) -> int:
-      return hash(self.ID)
+   def state_hash(self) -> str:
+      json_state = {}
+      for name, country in self.STATE.items():
+         json_state[name] = dict(country)
+
+      dhash = hashlib.md5()
+      encoded = json.dumps(json_state, sort_keys=True).encode()
+      dhash.update(encoded)
+      return dhash.hexdigest()
 
    def depth(self):
       node_count = 1
