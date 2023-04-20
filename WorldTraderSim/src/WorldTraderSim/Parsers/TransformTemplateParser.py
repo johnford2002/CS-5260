@@ -42,7 +42,7 @@ def validate(template: str = ""):
 def build_resource_quantities(resource_quantities_block):
   quantities = []
 
-  regex = r"\(([A-Za-z]+) (\d)\)"
+  regex = r"\(([A-Za-z0-9]+) (\d)\)"
   matches = re.finditer(regex, resource_quantities_block, re.MULTILINE)
   for match in matches:
       resource_name, resource_quantity = match.groups()
