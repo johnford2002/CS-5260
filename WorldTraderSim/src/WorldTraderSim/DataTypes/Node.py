@@ -29,6 +29,7 @@ class Node(object):
       self.PARENT = parent
       self.PARENT_ACTION = parent_action
       self.PATH_COST = path_cost
+      self.DEPTH = None
 
    def __eq__(self, other: Node) -> bool:
       return self.state_hash() == other.state_hash()
@@ -49,9 +50,14 @@ class Node(object):
       return self.STATE_HASH
 
    def depth(self):
+      if self.DEPTH:
+         return self.DEPTH
+      
       node_count = 1
       current_node = self.PARENT
       while current_node:
          node_count += 1
          current_node = current_node.PARENT
-      return node_count
+      self.DEPTH = node_count
+
+      return self.DEPTH
