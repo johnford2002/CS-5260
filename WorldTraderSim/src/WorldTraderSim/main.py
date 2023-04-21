@@ -155,6 +155,7 @@ def country_scheduler(country_name, resources_file,
   # Combine all the actions into a single list
   # Shuffle the list randomly so as not to have any implied bias to actions via ordering
   all_actions = transfer_actions + transform_actions
+  logging.info("Loaded {} total actions".format(len(all_actions)))
   if CONFIG.getboolean("Actions", "Shuffle"):
     random.shuffle(all_actions)
   
@@ -163,8 +164,10 @@ def country_scheduler(country_name, resources_file,
   state_evaluator = StateEvaluator(resources)
   schedule_evaluator = ScheduleEvaluator(
     initial_state=initial_country_states,
-    state_quality_fn=state_evaluator.state_quality
+    state_quality_fn=state_evaluator.state_quality,
+    self_country_name=self_country.name
   )
+  schedule_evaluator.configure(CONFIG)
   utility_fn: Callable[[Node], float] = lambda node: schedule_evaluator.expected_utility(self_country, Schedule(node))
   heuristic = Heuristic(utility_fn)
   logging.info("Evaluation functions established")
@@ -195,6 +198,8 @@ def country_scheduler(country_name, resources_file,
     schedule = Schedule(solution.NODE)
     expected_utility = schedule_evaluator.expected_utility(start_country_state, schedule)
     logging.info("Schedule Expected Utility = {}".format(expected_utility))
+    schedule_evaluator.log_country_probabilities(schedule)
+    schedule_evaluator.log_country_states_diff(schedule)
     solutions[expected_utility] = solution
 
   Schedule.write_solutions(solutions, schedule_evaluator.expected_utility, self_country, output_file)

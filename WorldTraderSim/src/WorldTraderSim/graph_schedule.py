@@ -52,7 +52,7 @@ def parseCmdLineArgs():
   return parser.parse_args()
 
 def main(): 
-  logging.info("Starting WorldTraderSim")
+  logging.info("Graphing WorldTraderSim best schedule...")
   args = parseCmdLineArgs ()
   logging.getLogger().setLevel(args.logging_level)
 
