@@ -29,6 +29,7 @@ def graph_schedule(args):
   sns.lineplot(x="step", y="expected_utility", data=df, color="b", ax=ax, label="Expected Utility")
   ax.set_xlabel("Depth")
   ax.set_ylabel("Expected Utility")
+  ax.legend(loc="upper left")
 
   ax2 = plt.twinx()
   ax2.grid(False)
