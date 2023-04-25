@@ -9,6 +9,7 @@ from DataTypes import Action, Country, Heuristic, Node, PriorityQueue, Solution
 from .SearchStrategy import SearchStrategy
 
 class HeuristicDepthFirstSearch(SearchStrategy):
+   expand_count = 1
 
    def _expand(self, actions: List[Action], heuristic: Heuristic, node: Node) -> List[Node]:
       nodes = PriorityQueue(lambda node: heuristic.apply(node), True)
@@ -18,7 +19,13 @@ class HeuristicDepthFirstSearch(SearchStrategy):
             logging.debug(node.STATE)
             logging.debug(action.ACTION_TYPE)
             nodes.add(Node(next_state, node, action, 0))
-      return nodes.as_list()
+
+      node_list = nodes.as_list()
+      if self.expand_count % 10 == 0:
+         logging.info(f"Expansion Iteration {self.expand_count}")
+
+      self.expand_count += 1
+      return node_list
 
    def search_with_reached(self, country_states: Dict[str, Country], actions: List[Action], heuristic: Heuristic) -> Solution:
       max_frontier_length = 1
