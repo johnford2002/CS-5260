@@ -12,6 +12,7 @@ SCHEDULE_FAILED_IMPACT=-0.35
 SCHEDULE_LENGTH_IMPACT=0.999
 LOGISTIC_FUNCTION_MIDPOINT=0
 LOGISTIC_FUNCTION_GROWTH=1
+FORCE_SELF_ACCEPT=False
 
 class ScheduleEvaluator:
   def __init__(self, initial_state: Dict[str, Country], state_quality_fn: Callable[[Country], float], self_country_name: str) -> None:
@@ -23,6 +24,7 @@ class ScheduleEvaluator:
     self.schedule_length_impact = SCHEDULE_LENGTH_IMPACT
     self.logistic_function_midpoint = LOGISTIC_FUNCTION_MIDPOINT
     self.logistic_function_growth = LOGISTIC_FUNCTION_GROWTH
+    self.force_self_accept = FORCE_SELF_ACCEPT
 
   def configure(self, config: ConfigParser):
     failed_impact = config.getfloat("ScheduleEvaluation", "FailedImpact", fallback=None)
@@ -44,6 +46,11 @@ class ScheduleEvaluator:
     if logistic_function_growth is not None:
       logging.info(f"ScheduleEvaluator set logistic function growth to {logistic_function_growth}")
       self.logistic_function_growth = logistic_function_growth
+
+    force_self_accept = config.getboolean("ScheduleEvaluation", "ForceSelfAccept", fallback=None)
+    if force_self_accept is not None:
+      logging.info(f"ScheduleEvaluator set force self accept to {force_self_accept}")
+      self.force_self_accept = force_self_accept
 
   def _get_initial_state_quality(self, country_name: str) -> float:
     # Lazy build initial quality lookup and don't repeat for subsequent calculations
@@ -113,7 +120,7 @@ class ScheduleEvaluator:
   def logistic_success(self, country: Country, schedule: Schedule) -> float:
     logging.debug(self.logistic_success.__name__)
 
-    if country.name == self.self_country_name:
+    if self.force_self_accept and self.self_country_name == country.name:
       return 1
     
     discounted_reward = self.discounted_reward(country, schedule)
