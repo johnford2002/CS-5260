@@ -1,0 +1,1204 @@
+[
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.16636845602825256
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.14894049052388447
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.13045643607922833
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.1108937583984107
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.09023186188854955
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: -0.06845224331777441
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: -0.016278960751778537
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.009218243313433128
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.03588798558600462
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.06373582918074361
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.09276454467762649
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.1229740569402602
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.19419988031657753
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.22821840919289837
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.26338860573088363
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.2996953961185651
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.33712096072033787
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.37564482376588315
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.41524396102140826
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.5072489971150413
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5501898391883228
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5940860127457992
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.6389033908251265
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.684606275728616
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.7311575913430652
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.7785190792216805
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8266514964418542
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8755148133117487
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9250684090846023
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9752712639563372
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.026082145751642
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0774597898576974
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.129363071127877
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.181751166648479
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2345837084436497
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2878209253682193
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3414237736183963
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3953540554609698
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.449574525943012
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5040489875018803
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5587423725318765
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6136208140954273
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6686517050793843
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.7238037461936628
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.7790469832979705
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.834352834606702
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.8896941083805663
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.94504501175388
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.0003811513726926
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.055679526540436
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.1109185155690726
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.1660778560342195
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.221138619620315
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.276083182221169
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.400641710868284
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.455171447508899
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.5788575301548105
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.632835732858897
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.7553761796221288
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.8087015749139814
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.92989721975795
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.9824991461539656
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.1022141853461993
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.1540476972040326
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.2721991206040815
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.323240308112691
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.4397879638957014
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.490029673291728
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.604967293782348
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.6544153470108967
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.767762697010952
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.7951634355989756
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.8224572338475564
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.8496447325034264
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.8767265837329896
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.903703449971363
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.9305760028268786
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.9573449220405563
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.984010894496347
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 4.010574613281732
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 4.037036776797063
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 4.0633980879103495
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 4.089659253157953
+  (TRANSFER self Europa ((Housing3 1))) EU: 1.30390789561335
+  (TRANSFER self Europa ((HousingWaste 3))) EU: 1.3582005661129017
+  (TRANSFER Europa self ((Timber 1))) EU: 1.355032412778529
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3514383223510746
+  (TRANSFER Europa self ((Timber 1))) EU: 1.347956336411885
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.3446095299955507
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 1.343589377070524
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3406502794126092
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.337428882532999
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3341763088188408
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3304211811036541
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.3271702884847874
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 1.326118490220344
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3232050453819535
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.320011139201357
+  (TRANSFER Europa self ((Timber 1))) EU: 1.316790582098379
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3130734859651838
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.30990903194401
+  (TRANSFER Europa self ((Timber 5))) EU: 1.308830439252214
+  (TRANSFER Europa self ((Timber 1))) EU: 1.305943331181733
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.30277810572498
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2995901302288158
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2959120641526654
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2924330591792939
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2882573602855367
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2844975421229887
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2798400738448918
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2758099962153915
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2706872122173003
+  (TRANSFER Europa self ((Timber 1))) EU: 1.266397724995567
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2608266030504223
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2562888108510628
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2502867863883556
+  (TRANSFER Europa self ((Timber 1))) EU: 1.245512007261852
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.239096906971687
+  (TRANSFER Europa self ((Timber 1))) EU: 1.234096631442536
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2272866073083153
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2220724579786573
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2148859221012152
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2094696140338688
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2019251745883204
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1963184766677992
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1884348753168534
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1826495727760735
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.174445623840953
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1684934821218302
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1599880137847012
+  (TRANSFER Europa self ((Timber 1))) EU: 1.153880743886698
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.145092541676386
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1388417671283224
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.12978951990913
+  (TRANSFER Europa self ((Timber 1))) EU: 1.123406745481561
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1141089941389615
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1076055763964747
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.098080665384346
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0914677851577128
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.08173381704016
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0750224538814674
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.06509724697752
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0582981556411268
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0481992048481668
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0651556417055137
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0581098115218823
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0475858716059556
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0404767484816764
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.029818559449402
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0458194704142905
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0384959973686099
+  (TRANSFER self Europa ((Housing3 1))) EU: 1.0320805575846925
+  (TRANSFER self Europa ((HousingWaste 5))) EU: 1.2215403371655584
+  (TRANSFER Europa self ((MetallicElements 5))) EU: 1.2233338263177476
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.249338930754888
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2752279345691522
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 1.2727251551467496
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2698021073629382
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 1.2657976180707642
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2910011962643313
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.289709170597451
+  (TRANSFER Europa self ((Timber 4))) EU: 1.28765119382154
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2846271684851265
+  (TRANSFER Europa self ((Timber 1))) EU: 1.281554065554371
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2780790765595946
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3032699862374515
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.3014267949448226
+  (TRANSFER Europa self ((Timber 4))) EU: 1.2995468498876064
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2965858730101192
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2935414384304438
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2901312575195403
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3153060517950943
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.3129151124832639
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 1.3112282364965826
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3370442917789451
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 1.3343189735182437
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3313481409604124
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 1.327455991686305
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.35259840631618
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.3505217488785493
+  (TRANSFER Europa self ((Timber 4))) EU: 1.3486008166484256
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3455762415948445
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3424596593991496
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3389888640225929
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3641072178419429
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 1.3614766801853413
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 1.3597669824975154
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3855059099707459
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 1.3826656526219825
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3796267279255976
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 1.375712698803642
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4007857996594333
+  (TRANSFER Europa self ((Timber 1))) EU: 1.397123091986458
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.392795886313322
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3888907660647707
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3841454540271019
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.408096168301719
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4037648117017483
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3983165005201197
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3937620350053168
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.387925180846398
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.410774242993612
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.4251527871890333
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4214820812570546
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4171734375120075
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4132629607532965
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.40854074197097
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.432372960620345
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.436899233934914
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4339227779230246
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4307735966574817
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4273587615275274
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4523404316724011
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4487521235749545
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.444617320415443
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.4415726560393924
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.440864302582833
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4661976937009875
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4914017838223728
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.5023638436232711
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.527352959135225
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.5522080525038897
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.5601563177498743
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.5680687503977455
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5639551911238236
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5590644529374271
+  (TRANSFER Europa self ((Timber 1))) EU: 1.554713371257025
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5494122238325863
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5448316406417772
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5391324192610574
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5343305594435688
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5282459621952431
+  (TRANSFER Europa self ((Timber 1))) EU: 1.523231231669869
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5167742830999633
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5115552456790315
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5047392600583545
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4993246142283203
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.492163158612801
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4865617143454515
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4790685716006131
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4999902465062132
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4940412946336439
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4859665478021074
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4798509673175915
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4714759594596614
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4914207623016933
+  (TRANSFER Europa self ((Timber 1))) EU: 1.484983688474202
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4760671809205101
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4694840351866214
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.460299500527674
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.479301068262321
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4724229594899618
+  (TRANSFER self Europa ((Electronics3 1))) EU: 1.4721564898816744
+  (TRANSFER self Europa ((ElectronicsWaste 3))) EU: 1.5576651048235592
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.554476072392917
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5511253806014287
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5475214927634453
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.571789775805419
+  (TRANSFER self Europa ((Timber 1))) EU: 1.5688685153236082
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5649141603663623
+  (TRANSFER Europa self ((Timber 2))) EU: 1.560485281099476
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.5571774936512306
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.55616696555854
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5807066243628867
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6051164404302816
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.6155864910255424
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.6397827182386218
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.6638462096945956
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.671366586529962
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.6788522093361657
+  (TRANSFER self Europa ((Timber 2))) EU: 1.6766395483752268
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6721873614849185
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.6687095833990238
+  (TRANSFER self Europa ((MetallicAlloysWaste 1))) EU: 1.6675200447785499
+  (TRANSFER Europa self ((Timber 1))) EU: 1.6640115241122182
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6602692611354892
+  (TRANSFER Europa self ((Timber 1))) EU: 1.6565253460199008
+  (TRANSFER Europa self ((MetallicAlloysWaste 1))) EU: 1.6531552420839366
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 1.6502372667111884
+  (TRANSFER self Europa ((Timber 1))) EU: 1.6467482303459535
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6433434155886766
+  (TRANSFER Europa self ((Timber 2))) EU: 1.6396027602516174
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6356363799629356
+  (TRANSFER Europa self ((Timber 1))) EU: 1.631781296400706
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6274245240418532
+  (TRANSFER self Europa ((Timber 4))) EU: 1.6259077233174744
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6219464468569493
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6454692121512342
+  (TRANSFER Europa self ((Timber 1))) EU: 1.6414622399405516
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.637996953298426
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.6367846223902822
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6608409041950054
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6847674404295019
+  (TRANSFER self Europa ((Timber 1))) EU: 1.6814876951472153
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6776190127910295
+  (TRANSFER Europa self ((Timber 2))) EU: 1.673341649837848
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.6689303620961504
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.692027967984296
+  (TRANSFER self Europa ((Timber 2))) EU: 1.6899284879319652
+],
+[
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.16636845602825256
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.14894049052388447
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.13045643607922833
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.1108937583984107
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: -0.09023186188854955
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: -0.04061191076190429
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.016278960751778537
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.009218243313433128
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.03588798558600462
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.06373582918074361
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.1296639871095258
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.16134527637530954
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.19419988031657753
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.22821840919289837
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.26338860573088363
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.2996953961185651
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.33712096072033787
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.37564482376588315
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.41524396102140826
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.5072489971150413
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5501898391883228
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5940860127457992
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.6389033908251265
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.684606275728616
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.7898534894909808
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8382248960744856
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8873195484491871
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9370965626683241
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9875146985243805
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0385325459191541
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.0901087041113413
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.2078488952326327
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2610251448143481
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3145888416273586
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.3685010539357991
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.4911145780724484
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5459752691002961
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6010307829747297
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6562478306689945
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.711594440002604
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.8371324599098484
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.8927701717410474
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.948416836642591
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.0040477523987246
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.059639637220745
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.1151706154618273
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.1706201970833177
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.296279082850874
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.351409860815689
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.4063863114749844
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.4611946642099887
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.515822311168927
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.5702577606757773
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.624490589365747
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.747583290938646
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.8011631182198604
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.854506095951886
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9076066104490814
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9604598145148584
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.0130615806251084
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.132794398613174
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.1622738266402908
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.1916405021605216
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.2208943859406602
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.2500354911461278
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.279063880633272
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.307979664328376
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.336782996696217
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.365474074296
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.3940531334206114
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.422520447823772
+  (TRANSFER self Europa ((Housing3 1))) EU: 0.8304686681675235
+  (TRANSFER self Europa ((HousingWaste 5))) EU: 0.9775402615642144
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9752054054673147
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9725773713060988
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9699737467339771
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9668865180235735
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.965011150665634
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 0.9640855196438674
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9617815447100945
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9591926741815806
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9566255191835489
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9535867815860608
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.9516902905921214
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 0.9507854322158132
+  (TRANSFER Europa self ((Timber 1))) EU: 0.948512511093736
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9459631636285517
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9434325330479125
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9404424543704422
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.9385203722441247
+  (TRANSFER Europa self ((Timber 5))) EU: 0.9376386365750777
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9353969148410215
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9328874062905581
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9303933300376558
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9274520379290514
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.951647864664465
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.951471612899498
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 0.9498455250111737
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9751070396662682
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9726328462454841
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9697788259090679
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9670553209782958
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.964944134491001
+  (TRANSFER Europa self ((Timber 5))) EU: 0.9640635916871587
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9617840346962773
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 0.9595810817050658
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9573922904994959
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 0.9545304026781259
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9789642093678026
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9761441976629446
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9727139039360182
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9696597126009557
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9658258121592955
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9890804616536969
+  (TRANSFER Europa self ((Timber 1))) EU: 0.985591266435477
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.981040748102733
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9773398470892887
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9724206142917645
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9945068828630067
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9903989021551146
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9848055069058916
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9805096792684647
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9745849537787133
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9955243582913722
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9908516994948472
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9842993853609682
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9794635645190579
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9726188900354895
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9924414589738911
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9872605575096338
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9798376503945412
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9745185902730802
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.966843051758644
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9855853332820994
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9799537117828963
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9717508816909531
+  (TRANSFER Europa self ((Timber 1))) EU: 0.966005974192709
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9575902652654973
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9752935849491633
+  (TRANSFER Europa self ((Timber 1))) EU: 0.969268765442581
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9603772429917441
+  (TRANSFER Europa self ((Timber 1))) EU: 0.954263492035857
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.94519822890457
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9619071957239029
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0149020246791398
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0092309124930574
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.001000957965905
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9952151068333087
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9867697367956588
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0045330805026655
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0507219648667703
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0454674576168501
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0379990128788994
+  (TRANSFER Europa self ((Timber 1))) EU: 1.03260447628743
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0248801108129526
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0437099674770063
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0823950144329326
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0776153640709272
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0709998940534957
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0660559763719677
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0591461122244956
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.079047910006232
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1096194201823513
+  (TRANSFER Europa self ((Timber 1))) EU: 1.105366996815663
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0996855417535414
+  (TRANSFER Europa self ((Timber 1))) EU: 1.095246168927467
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0892346813594185
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1102066706584892
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1321556297900242
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1284758816622067
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1237974457755484
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1199100740004762
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.114869515641249
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1369024063208482
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1498298519605328
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1467604961153453
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1431408254110769
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1398455646076526
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1358358286603991
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.158912548095945
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1625355715199048
+  (TRANSFER Europa self ((Timber 2))) EU: 1.1601857612020425
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1574988434956757
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1547309131383712
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1516341678803046
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.175570001868574
+  (TRANSFER Europa self ((Timber 1))) EU: 1.172377566753203
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1692552604171476
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.1692157790402469
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1938460424810728
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2183725104042347
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.2292432688500399
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.2535896869348173
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.2778234029697586
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.2858145390328417
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.293772668779261
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2901530332417597
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2857785403918112
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2819344056986537
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.277170955190567
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2731109232307418
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2679718819099122
+  (TRANSFER Europa self ((Timber 1))) EU: 1.263704723411121
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.258203769121798
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2537383962794038
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2478894740068545
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2432349133766616
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2370521917169497
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2322175574956191
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2257153856524683
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2207098534654848
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2139027189672942
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2087355002759956
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2016379875938719
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.221398533782796
+  (TRANSFER self Europa ((Timber 1))) EU: 1.2218598453410023
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2144609577950316
+  (TRANSFER Europa self ((Timber 2))) EU: 1.2058363453606493
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1980529284696624
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2169811703217048
+  (TRANSFER self Europa ((Timber 2))) EU: 1.2212256160812682
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2132725231900585
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2074622067624214
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1992649926616539
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2176698174237823
+  (TRANSFER self Europa ((Timber 1))) EU: 1.2189085033608296
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2104388851668992
+  (TRANSFER Europa self ((Timber 2))) EU: 1.2005497125593179
+  (TRANSFER self Europa ((Electronics3 1))) EU: 1.2001510091203087
+  (TRANSFER self Europa ((ElectronicsWaste 3))) EU: 1.2829510635786392
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2802028354798591
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2773051149843375
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3011776472354486
+  (TRANSFER self Europa ((Timber 3))) EU: 1.298717507374886
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2957820112224285
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2927707121671417
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2894446671971975
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3128785861438668
+  (TRANSFER self Europa ((Timber 1))) EU: 1.3105134747290335
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3068395079692658
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.3029645927726465
+  (TRANSFER Europa self ((MetallicElements 5))) EU: 1.3028142000392966
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3266356826352648
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3503454271998867
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.3739408958123922
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.4290661876167403
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 1.4418149323921499
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.4421888596021195
+  (TRANSFER Europa self ((Timber 4))) EU: 1.4399472040028547
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4367505923058297
+  (TRANSFER Europa self ((Timber 1))) EU: 1.433481864568253
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4298858141413258
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4263910351479234
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.422405859211584
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4456900396093724
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.4443148255574245
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 1.4426533834425184
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4669389997419842
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 1.4638241198974644
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4607163047044824
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 1.4569871290441672
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.480674559088924
+  (TRANSFER Europa self ((Timber 1))) EU: 1.477011710513221
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4728028341569823
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.4706741369865926
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.4692305047113334
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4932264727529554
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5170998040920725
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.527379520961866
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.5510498060530589
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.5745938922812062
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.5819992942068
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.5893711158190462
+  (TRANSFER self Europa ((Timber 1))) EU: 1.586812717649829
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5822331933084712
+  (TRANSFER Europa self ((Timber 2))) EU: 1.5770726184573964
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5719630249484116
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5674901497151783
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5620168445537719
+  (TRANSFER Europa self ((Timber 1))) EU: 1.557342074211586
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.551516135393298
+  (TRANSFER Europa self ((Timber 1))) EU: 1.546646832636696
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5404796103878484
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5354232694717271
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5289263571605693
+  (TRANSFER self Europa ((Timber 5))) EU: 1.5351217782875477
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.529132145755063
+  (TRANSFER self Europa ((Timber 1))) EU: 1.527722533180645
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5216810196311177
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.542821582965629
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5376948092532132
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5310829180872028
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5257816400663406
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5188597823239038
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5390798004235196
+  (TRANSFER self Europa ((Timber 2))) EU: 1.5407943144748277
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.53372043391252
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5281542140174311
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5207853274257195
+],
+[
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.16636845602825256
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.14894049052388447
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.13045643607922833
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.1108937583984107
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: -0.09023186188854955
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: -0.04061191076190429
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.016278960751778537
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.009218243313433128
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.03588798558600462
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.06373582918074361
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.1296639871095258
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.16134527637530954
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.19419988031657753
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.22821840919289837
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.26338860573088363
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.2996953961185651
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.33712096072033787
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.37564482376588315
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.41524396102140826
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.5072489971150413
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5501898391883228
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5940860127457992
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.6389033908251265
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.684606275728616
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.7898534894909808
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8382248960744856
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8873195484491871
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9370965626683241
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9875146985243805
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0385325459191541
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.0901087041113413
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.2078488952326327
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2610251448143481
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3145888416273586
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.3685010539357991
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.4911145780724484
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5459752691002961
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6010307829747297
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6562478306689945
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.711594440002604
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.8371324599098484
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.8927701717410474
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.948416836642591
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.0040477523987246
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.059639637220745
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.1151706154618273
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.1706201970833177
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.296279082850874
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.351409860815689
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.4063863114749844
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.4611946642099887
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.515822311168927
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.5702577606757773
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.624490589365747
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.747583290938646
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.8011631182198604
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.854506095951886
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9076066104490814
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9604598145148584
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.0130615806251084
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.132794398613174
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.1622738266402908
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.1916405021605216
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.2208943859406602
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.2500354911461278
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.279063880633272
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.307979664328376
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.336782996696217
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.365474074296
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.3940531334206114
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.422520447823772
+  (TRANSFER self Europa ((Housing3 1))) EU: 0.8304686681675235
+  (TRANSFER self Europa ((HousingWaste 5))) EU: 0.9775402615642144
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9752054054673147
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9725773713060988
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9699737467339771
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9668865180235735
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.965011150665634
+  (TRANSFER Europa self ((Timber 5))) EU: 0.9640855196438674
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9617815447101259
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9591926741815153
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9566255191834525
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9535867815859949
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.9516902905920603
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 0.9507854322158132
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9485125110937994
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9459631636285204
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9434325330478817
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9404424543704422
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.9385203722441247
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 0.9376386365750777
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9353969148410215
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9328874062905581
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9303933300376558
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9274520379290514
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.951647864664465
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.951471612899498
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 0.9498455250111737
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9751070396662682
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9726328462454841
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9697788259090679
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9670553209782958
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.964944134491001
+  (TRANSFER Europa self ((Timber 5))) EU: 0.9640635916871587
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9617840346962773
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 0.9595810817050658
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9573922904994959
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 0.9545304026781259
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9789642093678026
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9761441976629446
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9727139039360182
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9696597126009557
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9658258121592955
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9890804616536969
+  (TRANSFER Europa self ((Timber 1))) EU: 0.985591266435477
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.981040748102733
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9773398470892887
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9724206142917645
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9945068828630067
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9903989021551146
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9848055069058916
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9805096792684647
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9745849537787133
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9955243582913722
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9908516994948472
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9842993853609682
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9794635645190579
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9726188900354895
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9924414589738911
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9872605575096338
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9798376503945412
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9745185902730802
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.966843051758644
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9855853332820994
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9799537117828963
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9717508816909531
+  (TRANSFER Europa self ((Timber 1))) EU: 0.966005974192709
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9575902652654973
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9752935849491633
+  (TRANSFER Europa self ((Timber 1))) EU: 0.969268765442581
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9603772429917441
+  (TRANSFER Europa self ((Timber 1))) EU: 0.954263492035857
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.94519822890457
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9619071957239029
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0149020246791398
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0092309124930574
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.001000957965905
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9952151068333087
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9867697367956588
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0045330805026655
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0507219648667703
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0454674576168501
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0379990128788994
+  (TRANSFER Europa self ((Timber 1))) EU: 1.03260447628743
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0248801108129526
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0437099674770063
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0823950144329326
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0776153640709272
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0709998940534957
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0660559763719677
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0591461122244956
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.079047910006232
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1096194201823513
+  (TRANSFER Europa self ((Timber 1))) EU: 1.105366996815663
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0996855417535414
+  (TRANSFER Europa self ((Timber 1))) EU: 1.095246168927467
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0892346813594185
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1102066706584892
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1321556297900242
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1284758816622067
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1237974457755484
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1199100740004762
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.114869515641249
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1369024063208482
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1498298519605328
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1467604961153453
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1431408254110769
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1398455646076526
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1358358286603991
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.158912548095945
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1625355715199048
+  (TRANSFER Europa self ((Timber 2))) EU: 1.1601857612020425
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1574988434956757
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1547309131383712
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1516341678803046
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.175570001868574
+  (TRANSFER Europa self ((Timber 1))) EU: 1.172377566753203
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1692552604171476
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.1692157790402469
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1938460424810728
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2183725104042347
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.2292432688500399
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.2535896869348173
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.2778234029697586
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.2858145390328417
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.293772668779261
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2901530332417597
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2857785403918112
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2819344056986537
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.277170955190567
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2731109232307418
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2679718819099122
+  (TRANSFER Europa self ((Timber 1))) EU: 1.263704723411121
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.258203769121798
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2537383962794038
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2478894740068545
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2432349133766616
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2370521917169497
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2322175574956191
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2257153856524683
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2207098534654848
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2139027189672942
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2087355002759956
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2016379875938719
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.221398533782796
+  (TRANSFER self Europa ((Timber 1))) EU: 1.2218598453410023
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2144609577950316
+  (TRANSFER Europa self ((Timber 2))) EU: 1.2058363453606493
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1980529284696624
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2169811703217048
+  (TRANSFER self Europa ((Timber 2))) EU: 1.2212256160812682
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2132725231900585
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2074622067624214
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1992649926616539
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2176698174237823
+  (TRANSFER self Europa ((Timber 1))) EU: 1.2189085033608296
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2104388851668992
+  (TRANSFER Europa self ((Timber 2))) EU: 1.2005497125593179
+  (TRANSFER self Europa ((Electronics3 1))) EU: 1.2001510091203087
+  (TRANSFER self Europa ((ElectronicsWaste 3))) EU: 1.2829510635786392
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2802028354798591
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2773051149843375
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3011776472354486
+  (TRANSFER self Europa ((Timber 3))) EU: 1.298717507374886
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2957820112224285
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2927707121671417
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2894446671971975
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3128785861438668
+  (TRANSFER self Europa ((Timber 1))) EU: 1.3105134747290335
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3068395079692658
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.3029645927726465
+  (TRANSFER Europa self ((MetallicElements 5))) EU: 1.3028142000392966
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3266356826352648
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3503454271998867
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.3739408958123922
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.4290661876167403
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 1.4418149323921499
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.4421888596021195
+  (TRANSFER Europa self ((Timber 4))) EU: 1.4399472040028547
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4367505923058297
+  (TRANSFER Europa self ((Timber 1))) EU: 1.433481864568253
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4298858141413258
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4263910351479234
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.422405859211584
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4456900396093724
+  (TRANSFER Europa self ((ElectronicsWaste 1))) EU: 1.4443148255574245
+  (TRANSFER Europa self ((Timber 5))) EU: 1.4426533834425184
+  (TRANSFER Europa self ((Timber 1))) EU: 1.439553635311523
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4362526379789116
+  (TRANSFER self Europa ((Timber 2))) EU: 1.4333904044689585
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4301706855371017
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4539930098487557
+  (TRANSFER self Europa ((Timber 3))) EU: 1.451354508313002
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4481062929367876
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4448025084310216
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4411655882652474
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4645514730130251
+  (TRANSFER self Europa ((Timber 1))) EU: 1.4619449167037133
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4579715094630914
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.4542124386687456
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.453588180084489
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.4775565985036216
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5014045940392977
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.5116822308293574
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.5353301812482703
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.558853839185547
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.566263093082826
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.573638964821179
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5696508559308342
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5650004015414234
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5607992717219135
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5557796238269446
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5513724163706233
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.545994194722856
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5413880159733875
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.535662132796636
+  (TRANSFER Europa self ((Timber 1))) EU: 1.530864234255362
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5248018660116047
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5198196263125496
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5134321851930435
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5082730920263163
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.5015721972897589
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4962438293490714
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.48924127862854
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.509203716350807
+  (TRANSFER self Europa ((Timber 5))) EU: 1.5179768885312002
+  (TRANSFER self Europa ((Timber 3))) EU: 1.5209230344995772
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.514577186551807
+  (TRANSFER Europa self ((Timber 1))) EU: 1.5094433785963641
+],
+[
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.16636845602825256
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.14894049052388447
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.13045643607922833
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.1108937583984107
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: -0.09023186188854955
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: -0.04061191076190429
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: -0.016278960751778537
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.009218243313433128
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.03588798558600462
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.06373582918074361
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.1296639871095258
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.16134527637530954
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.19419988031657753
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.22821840919289837
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.26338860573088363
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.2996953961185651
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.33712096072033787
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.37564482376588315
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.41524396102140826
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.5072489971150413
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5501898391883228
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.5940860127457992
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.6389033908251265
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 0.684606275728616
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 0.7898534894909808
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8382248960744856
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.8873195484491871
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9370965626683241
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9875146985243805
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0385325459191541
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.0901087041113413
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.2078488952326327
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2610251448143481
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3145888416273586
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.3685010539357991
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.4911145780724484
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.5459752691002961
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6010307829747297
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.6562478306689945
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 1.711594440002604
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 1.8371324599098484
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.8927701717410474
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.948416836642591
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.0040477523987246
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.059639637220745
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.1151706154618273
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.1706201970833177
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.296279082850874
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.351409860815689
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.4063863114749844
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.4611946642099887
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.515822311168927
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.5702577606757773
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 2.624490589365747
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 2.747583290938646
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.8011631182198604
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.854506095951886
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9076066104490814
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 2.9604598145148584
+  (TRANSFORM housing self (INPUTS (Population 5) (MetallicElements 1) (Timber 5) (MetallicAlloys 3)) (OUTPUTS (Housing 1) (HousingWaste 1) (Population 5))) EU: 3.0130615806251084
+  (TRANSFORM housing2 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing 1)) (OUTPUTS (Housing2 1) (HousingWaste 1) (Population 5))) EU: 3.132794398613174
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.1622738266402908
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.1916405021605216
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.2208943859406602
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.2500354911461278
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.279063880633272
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.307979664328376
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.336782996696217
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.365474074296
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.3940531334206114
+  (TRANSFORM housing3 self (INPUTS (Population 5) (MetallicAlloys 1) (MetallicElements 1) (Timber 1) (Housing2 1)) (OUTPUTS (Housing3 1) (HousingWaste 1) (Population 5))) EU: 3.422520447823772
+  (TRANSFER self Europa ((Housing3 1))) EU: 0.8304686681675235
+  (TRANSFER self Europa ((HousingWaste 5))) EU: 0.9775402615642144
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9752054054673147
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9725773713060988
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9699737467339771
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9668865180235735
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.965011150665634
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 0.9640855196438674
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9617815447100945
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9591926741815806
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9566255191835489
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9535867815860608
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.9516902905921214
+  (TRANSFER Europa self ((MetallicElements 3))) EU: 0.9507854322158132
+  (TRANSFER Europa self ((Timber 1))) EU: 0.948512511093736
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9459631636285517
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9434325330479125
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9404424543704422
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.9385203722441247
+  (TRANSFER Europa self ((Timber 5))) EU: 0.9376386365750777
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9353969148410215
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9328874062905581
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9303933300376558
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9274520379290514
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.951647864664465
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.951471612899498
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 0.9498455250111737
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9751070396662682
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9726328462454841
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9697788259090679
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9670553209782958
+  (TRANSFER Europa self ((HousingWaste 1))) EU: 0.964944134491001
+  (TRANSFER Europa self ((Timber 5))) EU: 0.9640635916871587
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9617840346962773
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 0.9595810817050658
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9573922904994959
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 0.9545304026781259
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9789642093678026
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9761441976629446
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9727139039360182
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9696597126009557
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9658258121592955
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9890804616536969
+  (TRANSFER Europa self ((Timber 1))) EU: 0.985591266435477
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.981040748102733
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9773398470892887
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9724206142917645
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9945068828630067
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9903989021551146
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9848055069058916
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9805096792684647
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9745849537787133
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9955243582913722
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9908516994948472
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9842993853609682
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9794635645190579
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9726188900354895
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9924414589738911
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9872605575096338
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9798376503945412
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9745185902730802
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.966843051758644
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9855853332820994
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9799537117828963
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9717508816909531
+  (TRANSFER Europa self ((Timber 1))) EU: 0.966005974192709
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9575902652654973
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9752935849491633
+  (TRANSFER Europa self ((Timber 1))) EU: 0.969268765442581
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9603772429917441
+  (TRANSFER Europa self ((Timber 1))) EU: 0.954263492035857
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.94519822890457
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 0.9619071957239029
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0149020246791398
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0092309124930574
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.001000957965905
+  (TRANSFER Europa self ((Timber 1))) EU: 0.9952151068333087
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 0.9867697367956588
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0045330805026655
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0507219648667703
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0454674576168501
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0379990128788994
+  (TRANSFER Europa self ((Timber 1))) EU: 1.03260447628743
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0248801108129526
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.0437099674770063
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.0823950144329326
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0776153640709272
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0709998940534957
+  (TRANSFER Europa self ((Timber 1))) EU: 1.0660559763719677
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0591461122244956
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.079047910006232
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1096194201823513
+  (TRANSFER Europa self ((Timber 1))) EU: 1.105366996815663
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0996855417535414
+  (TRANSFER Europa self ((Timber 1))) EU: 1.095246168927467
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.0892346813594185
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1102066706584892
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1321556297900242
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1284758816622067
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1237974457755484
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1199100740004762
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.114869515641249
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1369024063208482
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1498298519605328
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1467604961153453
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1431408254110769
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1398455646076526
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1358358286603991
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.158912548095945
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1625355715199048
+  (TRANSFER Europa self ((Timber 2))) EU: 1.1601857612020425
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1574988434956757
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1547309131383712
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.1516341678803046
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.175570001868574
+  (TRANSFER Europa self ((Timber 1))) EU: 1.172377566753203
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1692552604171476
+  (TRANSFER self Europa ((MetallicAlloysWaste 1))) EU: 1.1692157790402469
+  (TRANSFER Europa self ((Timber 1))) EU: 1.1665988273587213
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.163773948600119
+  (TRANSFER Europa self ((Timber 1))) EU: 1.160923139199932
+  (TRANSFER Europa self ((MetallicAlloysWaste 1))) EU: 1.158111836400534
+  (TRANSFER Europa self ((Timber 4))) EU: 1.1562049795733405
+  (TRANSFER self Europa ((MetallicElements 1))) EU: 1.1535118008037848
+  (TRANSFER Europa self ((Timber 2))) EU: 1.1510237022719572
+  (TRANSFER Europa self ((MetallicElements 2))) EU: 1.147747691942948
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1713695905079375
+  (TRANSFER Europa self ((Timber 1))) EU: 1.168212377344354
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.1649244246731107
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.164920233640509
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.1892174366824442
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2134131625054925
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.2241235270533584
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.248143092928004
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.2720525205399913
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.2799201518032608
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.2877553906872767
+  (TRANSFER self Europa ((Timber 1))) EU: 1.2856674265039787
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.281684799728613
+  (TRANSFER Europa self ((Timber 2))) EU: 1.277128474716413
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.272602985456091
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2686870098403207
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.263791487983076
+  (TRANSFER Europa self ((Timber 1))) EU: 1.259671064151657
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2544185793341185
+  (TRANSFER Europa self ((Timber 1))) EU: 1.250102249409048
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2445061385000824
+  (TRANSFER Europa self ((Timber 1))) EU: 1.24000256120538
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2340763871563185
+  (TRANSFER self Europa ((Timber 5))) EU: 1.2406477800300233
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2352346098176514
+  (TRANSFER self Europa ((Timber 1))) EU: 1.234312728318236
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.228848809022565
+  (TRANSFER Europa self ((Timber 2))) EU: 1.222529216461591
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2166048672017786
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.237312213063237
+  (TRANSFER self Europa ((Timber 2))) EU: 1.2390091107372083
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2329037140679928
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2281234744987786
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2217145065281525
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.241870736069115
+  (TRANSFER self Europa ((Timber 1))) EU: 1.2417927206641017
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2350803505574621
+  (TRANSFER Europa self ((Timber 2))) EU: 1.2272845523445868
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.220168613314107
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2395007607894588
+  (TRANSFER self Europa ((Timber 2))) EU: 1.2427573197909243
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.235473155457122
+  (TRANSFER Europa self ((Timber 1))) EU: 1.2300256194510666
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2224813130063847
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2412909083201165
+  (TRANSFER self Europa ((Timber 1))) EU: 1.241998357643978
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2341779623487459
+  (TRANSFER Europa self ((Timber 2))) EU: 1.2250723702424593
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.216906791014258
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2349345824206779
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.2741474321706052
+  (TRANSFER self Europa ((Timber 2))) EU: 1.2765517466955498
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2697955449699874
+  (TRANSFER Europa self ((Timber 1))) EU: 1.264619623183946
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2575857028814288
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.2769057352847226
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.3051765355665212
+  (TRANSFER self Europa ((Timber 1))) EU: 1.304132610266209
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2985383741633387
+  (TRANSFER Europa self ((Timber 2))) EU: 1.292097477632618
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.2860588492231944
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3063957440527907
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.3253874576739582
+  (TRANSFER self Europa ((Timber 2))) EU: 1.3244267080222474
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3200722132681693
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3162290305540478
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.311530826289877
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3331510027165423
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.3400995545180885
+  (TRANSFER self Europa ((Timber 1))) EU: 1.3372487706015173
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3341903071321561
+  (TRANSFER Europa self ((Timber 2))) EU: 1.330786576555087
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.327211896849445
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3498164585977992
+  (TRANSFER self Europa ((Timber 2))) EU: 1.3479807060526332
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3442266403289647
+  (TRANSFER self Europa ((MetallicAlloys 1))) EU: 1.3408139564770982
+  (TRANSFER Europa self ((MetallicElements 4))) EU: 1.3402198816145643
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3635429175806983
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.3867561294396
+  (TRANSFORM electronics self (INPUTS (Population 1) (MetallicElements 3) (MetallicAlloys 2)) (OUTPUTS (Population 1) (Electronics 2) (ElectronicsWaste 1))) EU: 1.3968187183531862
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.4198471977240494
+  (TRANSFORM electronics2 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics 1)) (OUTPUTS (Population 1) (Electronics2 1) (ElectronicsWaste 1))) EU: 1.4427609229663991
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.4500475773244652
+  (TRANSFORM electronics3 self (INPUTS (Population 1) (MetallicElements 1) (MetallicAlloys 1) (Electronics2 1)) (OUTPUTS (Population 1) (Electronics3 1) (ElectronicsWaste 1))) EU: 1.4573024307494697
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4535147214117405
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4490759586115578
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4450870285724573
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.440298506774179
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4361152678465845
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.430987600111521
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4266171035627049
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.421161158358822
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4166105768553674
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4108374494198115
+  (TRANSFER Europa self ((Timber 1))) EU: 1.4061140589861483
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.4000350426387242
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3951462047039067
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3887727622322015
+  (TRANSFER Europa self ((Timber 1))) EU: 1.3837259058381393
+  (TRANSFER Europa self ((MetallicElements 1))) EU: 1.3770696410692804
+  (TRANSFORM alloys self (INPUTS (Population 1) (MetallicElements 2)) (OUTPUTS (Population 1) (MetallicAlloys 1) (MetallicAlloysWaste 1))) EU: 1.396482812605075
+]
