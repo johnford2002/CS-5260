@@ -18,7 +18,6 @@ from Evaluators import StateEvaluator, ScheduleEvaluator
 from ProblemFormulations import ImplicitGraph
 from SearchStrategies import search_strategy_factory
 
-
 CWD_PATH = os.path.abspath(os.getcwd())
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(SCRIPT_PATH, "data")
@@ -87,11 +86,13 @@ def build_country_states_map(initial_state: List[Country]) -> Dict[str, Country]
 def build_transfer_actions(resources: List[ResourceTemplate], country_states: Dict[str, Country], self_country: Country) -> List[TransferAction]:
   # TransferActions are created for all resource types
   # - transfers are restricted to a single resource
-  # - transfers are restricted in quantity to 1 - 5
+  # - transfers are restricted in quantity to 1 - TransferQuantityMax (CONFIG)
   # Results in count of resource types R * 5 branching (8*5=40 basic) 
+  transfer_quantity_max = CONFIG.getint("Actions", "TransferQuantityMax", fallback=1)
+  logging.info(f"Transfer Actions Quantiy Max = {transfer_quantity_max}")
   transfer_actions = []
   for resource in resources:
-    for quantity in range(1,6):
+    for quantity in range(1,(transfer_quantity_max+1)):
       if resource.transferable():
         for other_country in (country for country in country_states.values() if country.name != self_country.name):
           resource_quantity = ResourceQuantity(resource.name, quantity)
@@ -111,18 +112,24 @@ def build_transfer_actions(resources: List[ResourceTemplate], country_states: Di
             cost_fn=(lambda _countries: 0.0)
           )
           transfer_actions.append(receive_transfer_action)
+  logging.info(f"Created {len(transfer_actions)} Transfer Actions")
   return transfer_actions
 
 def build_transform_actions(transform_templates: List[TransformTemplate], target_country: Country) -> List[TransformAction]:
   # TransformTemplates need to be translated into Actions
-  transform_actions = []
+  transform_quantity_max = CONFIG.getint("Actions", "TransformQuantityMax", fallback=1)
+  logging.info(f"Transform Actions Quantiy Max = {transform_quantity_max}")
+  actions = []
   for transform_template in transform_templates:
-    transform_action = TransformAction.create_from_transform_template(
+    logging.info(transform_template.name)
+    transform_actions = TransformAction.create_from_transform_template(
       transform_template=transform_template, 
-      target_country=target_country
+      target_country=target_country,
+      quantity_max=transform_quantity_max
     )
-    transform_actions.append(transform_action)
-  return transform_actions
+    actions.extend(transform_actions)
+  logging.info(f"Created {len(actions)} Transform Actions")
+  return actions
 
 def country_scheduler(country_name, resources_file,
                       initial_state_file, output_file,
@@ -226,7 +233,7 @@ def parseCmdLineArgs():
 
   # Arguments governing AI agent limitations and performance
   parser.add_argument ("-n", "--num-schedules", type=int, default=1, help="The number of output schedules to generate")
-  parser.add_argument ("-d", "--depth-bound", type=int, choices=range(1,1001), default=100, help="How deep the AI agent is allowed to search")
+  parser.add_argument ("-d", "--depth-bound", type=int, default=100, help="How deep the AI agent is allowed to search")
   parser.add_argument ("-f", "--frontier-size", type=int, default=20000, help="Max size of the Frontier")
   
   # Pass all parameters as a config (overrides)

@@ -10,9 +10,10 @@ from typing import Callable, Dict, List
 # Local Modules
 from .Action import Action, ActionType
 from .Country import Country
+from .ResourceQuantity import ResourceQuantity
 from .TransformTemplate import TransformTemplate
 
-def determine_country_states(country_states: Dict[str, Country], transform_template: TransformTemplate, target_country: Country) -> Dict[str, Country]:
+def determine_country_states(country_states: Dict[str, Country], transform_template: TransformTemplate, target_country: Country, multiplier: int = 1) -> Dict[str, Country]:
   logging.debug(determine_country_states.__name__)
   new_country_states = copy.deepcopy(country_states)
   country = new_country_states[target_country.name]
@@ -24,7 +25,7 @@ def determine_country_states(country_states: Dict[str, Country], transform_templ
     resource_quantity = input.quantity
 
     resource = country.resources.get(resource_name)
-    resource.quantity -= resource_quantity
+    resource.quantity -= (resource_quantity*multiplier)
 
     country.resources[resource_name] = resource
 
@@ -33,7 +34,7 @@ def determine_country_states(country_states: Dict[str, Country], transform_templ
     resource_quantity = output.quantity
 
     resource = country.resources.get(resource_name)
-    resource.quantity += resource_quantity
+    resource.quantity += (resource_quantity*multiplier)
 
     country.resources[resource_name] = resource
 
@@ -78,30 +79,32 @@ class TransformAction(Action):
     input_resources = ["({})".format(str(resource_quantity)) for resource_quantity in self.TEMPLATE.inputs]
     output_resources = ["({})".format(str(resource_quantity)) for resource_quantity in self.TEMPLATE.outputs]
     return "(TRANSFORM {} {} (INPUTS {}) (OUTPUTS {}))".format(transform_name, target_country_name, " ".join(input_resources), " ".join(output_resources))
-#     (TRANSFORM C1
-# (INPUTS (Population 25)
-# (MetallicElements 5)
-# (Timber 25)
-# (MetallicAlloys 15))
-# (OUTPUTS (Housing 5)
-# (HousingWaste 5)
-# (Population 25)))
 
   @staticmethod
-  def create_from_transform_template(transform_template: TransformTemplate, target_country: Country) -> TransformAction:
-    preconditions = []
-    for input in transform_template.inputs:
-      resource_name = input.name
-      resource_quantity = input.quantity
-      fn: Callable[[Dict[str, Country]], bool] = lambda countries: countries[target_country.name].has_resource_quantity(resource_name, resource_quantity)
-      preconditions.append(fn)
+  def create_from_transform_template(transform_template: TransformTemplate, target_country: Country, quantity_max: int = 1) -> List[TransformAction]:
+    actions = []
 
-    cost: float = 0.0
+    for multiplier in range(1, (quantity_max+1)):
+      preconditions = []
+      for input in transform_template.inputs:
+        resource_name = input.name
+        resource_quantity = input.quantity*multiplier
+        fn: Callable[[Dict[str, Country]], bool] = lambda countries: countries[target_country.name].has_resource_quantity(resource_name, resource_quantity)
+        preconditions.append(fn)
 
-    next_state_fn: Callable[[Dict[str, Country]], Dict[str, Country]] = lambda countries: determine_country_states(countries, transform_template, target_country)
+      cost: float = 0.0
 
-    transform_action = TransformAction(preconditions, cost, next_state_fn)
-    transform_action.TARGET = target_country
-    transform_action.TEMPLATE = transform_template
+      next_state_fn: Callable[[Dict[str, Country]], Dict[str, Country]] = lambda countries: determine_country_states(countries, transform_template, target_country, multiplier)
 
-    return transform_action
+      transform_action = TransformAction(preconditions, cost, next_state_fn)
+      transform_action.TARGET = target_country
+      transform_action.TEMPLATE = copy.deepcopy(transform_template)
+
+      def update_quantity(resource_quantity: ResourceQuantity):
+        resource_quantity.quantity *= multiplier
+        return resource_quantity
+      transform_action.TEMPLATE.inputs = [update_quantity(resource_quantity) for resource_quantity in transform_action.TEMPLATE.inputs]
+      transform_action.TEMPLATE.outputs = [update_quantity(resource_quantity) for resource_quantity in transform_action.TEMPLATE.outputs]
+
+      actions.append(transform_action)
+    return actions

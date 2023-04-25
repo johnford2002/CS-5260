@@ -56,5 +56,12 @@ Using a configuratoin file, the following global options can be changed:
 | Section | Option | Usage | Default |
 | ------- | ------ | ----- | ------- |
 | Actions | Shuffle | Shuffle the list of all actions to avoid deterministic outcomes | True |
+| Actions | TransferQuantityMax | Creates Transfer Actions for resource quantities of 1 -> MAX | 5 |
+| Actions | TransformQuantityMax | Creates Transform Actions for resource quantities of 1 -> MAX | 1 |
 | Search | Strategy | The SearchStrategy class to use | HeuristicDepthFirstSearch |
 | Search | EnableReached | Whether a search strategy will use a reached structure during search | True |
+| ScheduleEvaluation | FailedImpact | Penalty multiplied by schedule failure probability (C) | -0.35 |
+| ScheduleEvaluation | LengthImpact | Exponentially decreases the expected utility of a schedule over time (gamma) | 0.999 |
+| ScheduleEvaluation | LogisticFunctionMidpoint | Changes the likelihood a schedule will be successful, zero is neutral (x_0) | -1 |
+| ScheduleEvaluation | LogisticFunctionGrowth | Changes how significantly a delta in discounted reward moves success probability (k) | 1 |
+| ScheduleEvaluation | ForceSelfAccept | Force the agent country to always accept its own schedule | False |
