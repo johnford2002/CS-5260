@@ -280,12 +280,54 @@ Use the `logging` module (never `print`) at the appropriate level:
 
 ## Testing
 
-There is **no automated test suite** (no pytest, unittest, or CI pipeline). Testing is documented manually:
+### Automated Unit Tests (pytest)
 
+A pytest suite lives in `WorldTraderSim/tests/`. Run from `WorldTraderSim/`:
+
+```bash
+cd WorldTraderSim
+python -m pytest          # all tests, verbose
+python -m pytest tests/DataTypes/        # subset by module
+python -m pytest -k "transfer"           # subset by name pattern
+```
+
+**Test layout:**
+
+```
+WorldTraderSim/tests/
+├── conftest.py                          # sys.path setup + shared fixtures
+├── DataTypes/
+│   ├── test_country.py                  # from_dict, has_resource_quantity, diff
+│   ├── test_node.py                     # state_hash (caching), depth, equality
+│   ├── test_resource_quantity.py        # str, iter, zero quantity
+│   ├── test_resource_template.py        # from_dict, transferable
+│   ├── test_transfer_action.py          # SEND/RECEIVE creation, apply, to_string
+│   ├── test_transform_action.py         # template creation, apply, multiplier
+│   └── test_priority_queue.py           # ascending/descending ordering, pop
+├── Parsers/
+│   ├── test_state_parser.py             # validate_resources, validate_initial_state, read_csv
+│   └── test_transform_template_parser.py # validate_*, build_resource_quantities, parse
+├── Evaluators/
+│   ├── test_state_evaluator.py          # weighted_sum, state_quality
+│   └── test_schedule_evaluator.py       # logistic_function, discounted_reward, expected_utility, configure
+└── SearchStrategies/
+    └── test_search_strategy_factory.py  # factory returns correct classes, raises on unknown
+```
+
+**sys.path note:** `conftest.py` inserts `src/WorldTraderSim/` so bare imports like
+`from DataTypes import Country` resolve the same way as in the application code.
+
+**pytest config** is in `setup.cfg` under `[tool:pytest]`:
+- `testpaths = tests`
+- `addopts = -v`
+
+### Manual Integration Tests
+
+End-to-end behaviour is documented in:
 - `test_cases_summary.md` — 5 detailed scenario descriptions with parameters and expected outcomes.
 - `test_cases_summary2.md` — additional concise test summaries.
 
-**When making changes, manually verify against these scenarios:**
+**When making changes, manually verify:**
 1. Run with default settings: `python src/WorldTraderSim/main.py`
 2. Confirm schedule output appears in `schedules.txt` and `best_solution.csv`.
 3. Confirm state quality improves (log line: `Final Agent Country State Quality > Start Agent Country State Quality`).
